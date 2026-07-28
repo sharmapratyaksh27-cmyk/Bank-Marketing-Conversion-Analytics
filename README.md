@@ -1,6 +1,7 @@
 Bank Marketing Campaign Performance & Conversion Analysis
 
 Project Overview
+
 --This project analyzes a bank's direct telemarketing campaign to identify the most profitable customer segments and optimize future contact strategies. The end-to-end pipeline includes data cleaning, relational database querying, and interactive business intelligence dashboarding.
 
 Tech Stack Used
