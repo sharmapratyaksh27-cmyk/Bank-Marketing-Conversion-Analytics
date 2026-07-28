@@ -4,6 +4,7 @@ Project Overview
 This project analyzes a bank's direct telemarketing campaign to identify the most profitable customer segments and optimize future contact strategies. The end-to-end pipeline includes data cleaning, relational database querying, and interactive business intelligence dashboarding.
 
 Tech Stack Used
+
 Python: pandas, seaborn, matplotlib (Data Cleaning & Exploratory Analysis)
 SQL (MySQL): Window Functions, CTEs, Aggregations (Data Storage & Querying)
 Power BI: DAX, Data Modeling, Interactive Slicers (Data Visualization)
